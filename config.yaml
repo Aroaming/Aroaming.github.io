@@ -1,20 +1,20 @@
-baseurl: https://example.com
+baseurl: https://aroaming.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
-copyright: Example Person
+title: 装笔笔记
+copyright: aroaming
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: aroaming blog
         weight: 1
         params:
             description: Example description
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 装笔笔记
         weight: 2
         params:
             description: 演示说明
