@@ -8,7 +8,7 @@ copyright: aroaming
 languages:
     en:
         languageName: English
-        title: aroaming blog
+        title: 装笔笔记
         weight: 1
         params:
             description: Example description
@@ -61,7 +61,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 我喜欢许巍和李志.
         avatar:
             enabled: true
             local: true
@@ -203,7 +203,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/Aroaming
           params:
               icon: brand-github
 
