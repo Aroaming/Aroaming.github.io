@@ -8,13 +8,13 @@ copyright: aroaming
 languages:
     en:
         languageName: English
-        title: 装笔笔记
+        title: 漫步
         weight: 1
         params:
             description: Example description
     zh-cn:
         languageName: 中文
-        title: 装笔笔记
+        title: 漫步
         weight: 2
         params:
             description: 演示说明
@@ -61,7 +61,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 我喜欢许巍和李志.
+        subtitle: 我喜欢许巍和李志
         avatar:
             enabled: true
             local: true
