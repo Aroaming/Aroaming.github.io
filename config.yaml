@@ -87,9 +87,9 @@ params:
             adminLabel:
 
         utterances:
-            repo:
+            repo: Aroaming/blog_data
             issueTerm: pathname
-            label:
+            label: none
 
         remark42:
             host:
